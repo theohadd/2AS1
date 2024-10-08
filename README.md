@@ -1,1 +1,1 @@
-# test test test
+# Repository consacré à mon apprentissage Python et Git.
